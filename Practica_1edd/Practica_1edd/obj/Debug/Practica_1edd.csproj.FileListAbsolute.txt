@@ -1,0 +1,12 @@
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\bin\Debug\Practica_1edd.exe.config
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\bin\Debug\Practica_1edd.exe
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\bin\Debug\Practica_1edd.pdb
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\obj\Debug\Practica_1edd.csprojResolveAssemblyReference.cache
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\obj\Debug\Practica_1edd.Form1.resources
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\obj\Debug\Practica_1edd.Properties.Resources.resources
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\obj\Debug\Practica_1edd.csproj.GenerateResource.Cache
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\obj\Debug\Practica_1edd.exe
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\obj\Debug\Practica_1edd.pdb
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jose_\Documents\universidad\segundoSemestre2017\estructuras\edd2\Practica_1edd\Practica_1edd\obj\Debug\Practica_1edd.Img.resources
